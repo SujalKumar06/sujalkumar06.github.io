@@ -8,6 +8,6 @@ categories: general
 related_posts: false
 ---
 
-Welcome to my new blog! The setup is finally complete, and this is my first real post. 
+Welcome to my new blog! The setup is finally complete, and this is my first real post.
 
 I'll be sharing updates here soon.
