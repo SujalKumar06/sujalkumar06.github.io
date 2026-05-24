@@ -29,7 +29,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Hey! I am Sujal, an undergraduate at [IIT Madras](https://www.iitm.ac.in/) currently pursuing an undergraduate degree in AI and Data Analytics. My interest lies in contributing to Open Source Software, Software Development and certain areas of AI.
+Hey! I am Sujal, a student at [IIT Madras](https://www.iitm.ac.in/) currently pursuing an undergraduate degree in AI and Data Analytics. My interest lies in contributing to Open Source Software, Software Development and certain areas of AI.
 
 I have contributed to mostly [SymPy](https://www.sympy.org/en/index.html) and [Matplotlib](https://matplotlib.org/) (Python Packages). I am a [GSoC](https://summerofcode.withgoogle.com/) Contributor under SymPy with my work revolving around SAT Solvers and enhancing the assumptions module of SymPy.
 
