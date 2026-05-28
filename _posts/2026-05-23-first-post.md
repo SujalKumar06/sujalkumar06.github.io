@@ -1,13 +1,19 @@
 ---
 layout: post
-title: First Post
-date: 2026-05-23 16:37:00 +0530
-description: Setting up my new portfolio and blog.
-tags: updates
-categories: general
-related_posts: false
+title: "Your SymPy Post Title"
+date: 2026-05-29 12:00:00 +0530
+description: "A one-sentence summary of what you solved or built."
+tags: [sympy, python] 
+categories: open-source
+related_posts: true
+toc:
+  sidebar: left
 ---
 
-Welcome to my new blog! The setup is finally complete, and this is my first real post.
+Write a brief introduction here.
 
-I'll be sharing updates here soon.
+## The Problem
+Explain what you were trying to solve.
+
+## The Solution
+Explain your approach and include your code snippets.
