@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{
+        },{id: "post-sympy-project",
+        
+          title: "SymPy Project",
+        
+        description: "A one-sentence summary of what you solved or built.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/sympy-project/";
+          
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
