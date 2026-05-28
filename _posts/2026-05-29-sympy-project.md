@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Your SymPy Post Title"
+title: "SymPy Project"
 date: 2026-05-29 12:00:00 +0530
 description: "A one-sentence summary of what you solved or built."
-tags: [sympy, python] 
+tags: [sympy, python]
 categories: open-source
 related_posts: true
 toc:
@@ -13,7 +13,9 @@ toc:
 Write a brief introduction here.
 
 ## The Problem
+
 Explain what you were trying to solve.
 
 ## The Solution
+
 Explain your approach and include your code snippets.
