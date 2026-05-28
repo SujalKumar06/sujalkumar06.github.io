@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SymPy Project"
-date: 2026-05-29 12:00:00 +0530
+date: 2026-05-29 01:00:00 +0530
 description: "A one-sentence summary of what you solved or built."
 tags: [sympy, python]
 categories: open-source
