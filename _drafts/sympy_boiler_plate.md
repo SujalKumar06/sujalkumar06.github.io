@@ -5,7 +5,7 @@ date: 2026-05-29 01:00:00 +0530
 description: "A one-sentence summary of what you solved or built."
 tags: [sympy, python]
 categories: open-source
-related_posts: true
+related_posts: false
 toc:
   sidebar: left
 ---
