@@ -16,11 +16,22 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-week-0-the-start-of-gsoc",
+        },{id: "post-week-1-implementation-of-backtracking-logic",
+        
+          title: "Week 1: Implementation of Backtracking logic",
+        
+        description: "The first week of working with SymPy",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/week-1/";
+          
+        },
+      },{id: "post-week-0-the-start-of-gsoc",
         
           title: "Week 0: The Start of GSoC",
         
-        description: "The first week of working with SymPy",
+        description: "The intial week of working with SymPy",
         section: "Posts",
         handler: () => {
           
