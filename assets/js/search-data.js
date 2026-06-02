@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{
+        },{id: "post-week-0-the-start-of-gsoc",
+        
+          title: "Week 0: The Start of GSoC",
+        
+        description: "The first week of working with SymPy",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/week-0/";
+          
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
